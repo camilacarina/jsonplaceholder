@@ -1,0 +1,28 @@
+{
+	"support": [{
+			"id": 1,
+			"title": "Fortics SZ.chat"
+		},
+		{
+			"id": 2,
+			"title": "Fortics PBX"
+		},
+		{
+			"id": 3,
+			"title": "Fortics ANALYZER"
+		}
+	],
+	"commercial": [{
+			"id": 1,
+			"title": "Adquirir um produto"
+		},
+		{
+			"id": 2,
+			"title": "Tirar dúvidas sobre um produto"
+		},
+		{
+			"id": 3,
+			"title": "Falar com atendente"
+		}
+	]
+}
